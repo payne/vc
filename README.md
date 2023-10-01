@@ -1,4 +1,6 @@
-# Speech Recognition App #30days30submits #day-24
+# Quick Voice Change Utility
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Web_Cifar/pen/jOqBEjE](https://codepen.io/Web_Cifar/pen/jOqBEjE).
+The plan is:
+1. voice to text
+2. text to voice (with different, easier to hear, attributes)
 
